@@ -1,6 +1,8 @@
-# Hi, I am Johana DT 👋
+<div style="display: flex; align-items: center; justify-content: center; background-color: #E6E6FA; padding: 20px; border-radius: 10px; flex-wrap: wrap;">
+  <h1 style="margin: 0 20px 0 0; text-align: center;">Hi, I am Johana DT 👋
+  <img src="https://github.com/jduchit/jduchit/blob/main/Animation1_ProgrammerGirl.gif" alt="Programmer Girl Animation" style="width: 102px; height: 94px; margin: 10px 0;"></h1>
+</div>
 
-![Animation]([https://jduchit.github.io/jduchit/])
 
 
 <!--
