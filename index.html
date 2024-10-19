@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta tags for basic page setup -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lottie Animation</title>
+
+  <!-- Import the Lottie (bodymovin) library to load and play animations -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.6/lottie.min.js"></script>
+</head>
+<body>
+  <!-- Container where the Lottie animation will be displayed -->
+  <div id="animacion" style="width: 500px; height: 500px;"></div>
+
+  <script>
+    // Loading and configuring the Lottie animation
+    var animacion = lottie.loadAnimation({
+      container: document.getElementById('animacion'),  // The div where the animation will render
+      renderer: 'svg',   // The renderer type, 'svg' for scalable vector graphics
+      loop: true,        // Defines if the animation will loop
+      autoplay: true,    // Starts the animation automatically on page load
+      path: 'ProgrammerGirl.json' // Path to the JSON animation file
+    });
+  </script>
+</body>
+</html>
