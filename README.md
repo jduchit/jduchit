@@ -1,6 +1,6 @@
 # Hi, I am Johana DT 👋
 
-![Animation]([https://ruta-del-gif.gif](https://jduchit.github.io/jduchit/))
+![Animation]([https://jduchit.github.io/jduchit/])
 
 
 <!--
