@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I am Johana DT 👋
+
+![Animation]([https://ruta-del-gif.gif](https://jduchit.github.io/jduchit/))
+
 
 <!--
 **jduchit/jduchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
